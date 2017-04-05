@@ -1,0 +1,7 @@
+fos_user_security:
+    resource: "@FOSUserBundle/Resources/config/routing/security.xml"
+user_login_check:
+    path: /user/login_check
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
