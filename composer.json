@@ -35,7 +35,8 @@
         "doctrine/mongodb-odm": "1.2.x-dev",
         "doctrine/mongodb-odm-bundle": "3.2.1",
         "friendsofsymfony/user-bundle": "2.0.x-dev",
-        "lexik/jwt-authentication-bundle": "2.x-dev"
+        "lexik/jwt-authentication-bundle": "2.x-dev",
+        "nelmio/cors-bundle": "1.5.3"
     },
     "require-dev": {
         "sensio/generator-bundle": "^3.0",
